@@ -1,30 +1,71 @@
 <h1 align="center">Hi 👋, I'm Puneet Dhankad</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">A DevOps & Cloud Engineer Who Clear+Copes With 3 AM Outages ☁️⚡</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet700&label=Profile%20views&color=0e75b6&style=flat" alt="puneet700" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneet700" alt="puneet700" /></a> </p>
-
-- 🌱 I’m currently learning **Openshift**
-
-- 👯 I’m looking to collaborate on **Cloud native Projects**
-
-- 🤝 I’m looking for help with **Devops**
-
-- 💬 Ask me about **Devops**
-
-- 📫 How to reach me **dhankadpuneet6@gmail.com**
-
-- ⚡ Fun fact **I teach school students maths and programming free**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/puneet-dhankad-028261178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/puneet-dhankad-028261178/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=puneet700&label=Recruiter%20Vibe%20Check%20(Views)&color=0e75b6&style=flat-square" alt="puneet700" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneet700&show_icons=true&locale=en&layout=compact" alt="puneet700" /></p>
+### 💫 The TL;DR (Why You Should Hire Me)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneet700&show_icons=true&locale=en" alt="puneet700" /></p>
+I containerize my feelings and deploy them to production. Basically, I spend my day making sure infrastructure doesn't have a total mental breakdown so your company's apps can run flawlessly. I’m out here automating everything because manual deployments? Not very demure, not very mindful, and definitely low aura. 💅
+
+- 🚀 **Main Character Energy:** Architecting cloud infrastructure, building bulletproof CI/CD pipelines, and babysitting clusters.
+- 🌱 **Current Hyperfixation:** Mastering `OpenShift` (because standard Kubernetes wasn't giving enough complexity vibes).
+- 👯 **Looking to Collab:** On cloud-native projects that absolutely *cannot* crash. 
+- 💬 **Ask Me About:** Why your Docker container is gaslighting you into thinking "it works on my machine."
+- ⚡ **Plot Twist:** I teach school kids mathematics and programming for free. No cap, just giving back to the community. 🫡
+
+---
+
+### 🛠️ The Tech Drip (What I Bring to the Table)
+
+#### ☁️ Where My Brain Lives (Cloud & IaC)
+![AWS](https://img.shields.io/badge/AWS-Pure%20Slay-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-It's%20Giving%20Cloud-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+#### 📦 Boxed Up & Ready (Containers & Orchestration)
+![Docker](https://img.shields.io/badge/Docker-Whale%20Hello%20There-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-K8s%20Ate-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+
+#### 🔄 Keeping It Flowing (CI/CD & Automation)
+![Jenkins](https://img.shields.io/badge/Jenkins-The%20Butler%20Did%20It-%23D33833.svg?style=flat-square&logo=jenkins&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-Commit%20Issues-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
+![Nginx](https://img.shields.io/badge/Nginx-Gatekeep%20Master-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) 
+![Grafana](https://img.shields.io/badge/Grafana-Vibe%20Check-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+
+#### 💻 Speaking in Code (Languages & Scripting)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20Bash-Penguin%20Supremacy-%23E34F26.svg?style=flat-square&logo=linux&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-Sssss-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/Django-Unchained-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+
+---
+
+### 📊 The Aura Meter (Proof of Work)
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=puneet700&theme=radar&column=7&margin-w=15" alt="puneet700 trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=puneet700&show_icons=true&locale=en&theme=visual_studio" alt="puneet700's stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puneet700&show_icons=true&locale=en&layout=compact&theme=visual_studio" alt="puneet700's languages" height="170px" />
+</p>
+
+---
+
+### 🤝 Dear Recruiters: Slide Responsibly 💸
+
+If you're looking for an engineer who skips the manual overhead, deploys infrastructure from terminal scripts, and brings heavy-hitting DevOps skills to the team, let's secure the bag together.
+
+<p align="left">
+  <a href="mailto:dhankadpuneet6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Secure%20The%20Bag-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/puneet-dhankad-028261178/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Network%20Bestie-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
